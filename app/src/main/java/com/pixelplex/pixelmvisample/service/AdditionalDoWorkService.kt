@@ -1,3 +1,0 @@
-package com.pixelplex.pixelmvisample.service
-
-class AdditionalDoWorkService
