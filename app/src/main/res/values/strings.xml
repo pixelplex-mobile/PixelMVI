@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PixelMVISample</string>
+    <string name="github">Github</string>
+    <string name="github_users">Github Users</string>
+    <string name="user_name">User Name</string>
+    <string name="account">Account</string>
+    <string name="repositories">Repositories</string>
+</resources>
